@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Randi Risdiansyah</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+<p>
+    <a href="https://github.com/noobDevelova" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/randirisdiansyah" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+<p>&nbsp;</p>
+
+<h3 align="center"><strong>A passionate frontend developer from Indonesia</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobdevelova&label=Profile%20views&color=0e75b6&style=flat" alt="noobdevelova" /> </p>
 
